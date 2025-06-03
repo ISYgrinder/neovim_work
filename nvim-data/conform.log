@@ -1,0 +1,10 @@
+2025-05-29 23:23:21[ERROR] Formatter 'stylua' error: error: could not format from stdin: failed to format from stdin: error parsing: 
+ - unexpected token `guifont` (102:5 to 102:12), unexpected expression when looking for a statement
+ - unexpected token `Font` (102:29 to 102:33), unexpected expression when looking for a statement
+ - unexpected token `Mono` (102:34 to 102:38), unexpected expression when looking for a statement
+ - unexpected token `h22` (102:39 to 102:42), expected arguments after `:`
+
+2025-05-29 23:28:24[ERROR] Formatter 'stylua' error: error: could not format from stdin: failed to format from stdin: error parsing: 
+ - unexpected token `guifont` (102:5 to 102:12), unexpected expression when looking for a statement
+ - unexpected token `h22` (102:39 to 102:42), expected arguments after `:`
+
