@@ -1,0 +1,68 @@
+[INFO  29.05.2025 22:01:41] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=lua-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  29.05.2025 22:01:41] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=stylua) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  29.05.2025 22:01:45] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=stylua)
+[INFO  29.05.2025 22:01:50] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=lua-language-server)
+[ERROR 29.05.2025 22:18:26] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="wget", err="ENOENT: no such file or directory"
+[ERROR 29.05.2025 22:18:27] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="7z", err="ENOENT: no such file or directory"
+[ERROR 29.05.2025 22:18:27] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR 29.05.2025 22:18:27] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="cargo", err="ENOENT: no such file or directory"
+[ERROR 29.05.2025 22:18:27] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="luarocks", err="ENOENT: no such file or directory"
+[ERROR 29.05.2025 22:18:27] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="ruby", err="ENOENT: no such file or directory"
+[ERROR 29.05.2025 22:18:27] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="gem", err="ENOENT: no such file or directory"
+[ERROR 29.05.2025 22:18:27] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="composer", err="ENOENT: no such file or directory"
+[ERROR 29.05.2025 22:18:27] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="php", err="ENOENT: no such file or directory"
+[ERROR 29.05.2025 22:18:27] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR 29.05.2025 22:18:27] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="node", err="ENOENT: no such file or directory"
+[ERROR 29.05.2025 22:18:27] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="javac", err="ENOENT: no such file or directory"
+[ERROR 29.05.2025 22:18:27] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="java", err="ENOENT: no such file or directory"
+[ERROR 29.05.2025 22:18:27] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="julia", err="ENOENT: no such file or directory"
+[ERROR 29.05.2025 23:55:03] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="wget", err="ENOENT: no such file or directory"
+[ERROR 29.05.2025 23:55:04] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="7z", err="ENOENT: no such file or directory"
+[ERROR 29.05.2025 23:55:04] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR 29.05.2025 23:55:04] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="cargo", err="ENOENT: no such file or directory"
+[ERROR 29.05.2025 23:55:04] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="luarocks", err="ENOENT: no such file or directory"
+[ERROR 29.05.2025 23:55:04] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="ruby", err="ENOENT: no such file or directory"
+[ERROR 29.05.2025 23:55:04] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="gem", err="ENOENT: no such file or directory"
+[ERROR 29.05.2025 23:55:04] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="composer", err="ENOENT: no such file or directory"
+[ERROR 29.05.2025 23:55:04] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="php", err="ENOENT: no such file or directory"
+[ERROR 29.05.2025 23:55:04] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR 29.05.2025 23:55:04] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="node", err="ENOENT: no such file or directory"
+[ERROR 29.05.2025 23:55:04] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="javac", err="ENOENT: no such file or directory"
+[ERROR 29.05.2025 23:55:04] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="java", err="ENOENT: no such file or directory"
+[ERROR 29.05.2025 23:55:04] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="julia", err="ENOENT: no such file or directory"
+[ERROR 30.05.2025 00:00:55] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="wget", err="ENOENT: no such file or directory"
+[ERROR 30.05.2025 00:00:55] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="7z", err="ENOENT: no such file or directory"
+[ERROR 30.05.2025 00:00:55] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR 30.05.2025 00:00:55] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="cargo", err="ENOENT: no such file or directory"
+[ERROR 30.05.2025 00:00:55] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="luarocks", err="ENOENT: no such file or directory"
+[ERROR 30.05.2025 00:00:55] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="ruby", err="ENOENT: no such file or directory"
+[ERROR 30.05.2025 00:00:55] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="gem", err="ENOENT: no such file or directory"
+[ERROR 30.05.2025 00:00:55] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="composer", err="ENOENT: no such file or directory"
+[ERROR 30.05.2025 00:00:55] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="php", err="ENOENT: no such file or directory"
+[ERROR 30.05.2025 00:00:55] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR 30.05.2025 00:00:55] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="node", err="ENOENT: no such file or directory"
+[ERROR 30.05.2025 00:00:55] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="javac", err="ENOENT: no such file or directory"
+[ERROR 30.05.2025 00:00:55] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="java", err="ENOENT: no such file or directory"
+[ERROR 30.05.2025 00:00:55] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="julia", err="ENOENT: no such file or directory"
+[ERROR 30.05.2025 00:04:35] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="wget", err="ENOENT: no such file or directory"
+[ERROR 30.05.2025 00:04:36] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="7z", err="ENOENT: no such file or directory"
+[ERROR 30.05.2025 00:04:36] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="go", err="ENOENT: no such file or directory"
+[ERROR 30.05.2025 00:04:36] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="cargo", err="ENOENT: no such file or directory"
+[ERROR 30.05.2025 00:04:36] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="luarocks", err="ENOENT: no such file or directory"
+[ERROR 30.05.2025 00:04:36] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="ruby", err="ENOENT: no such file or directory"
+[ERROR 30.05.2025 00:04:36] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="gem", err="ENOENT: no such file or directory"
+[ERROR 30.05.2025 00:04:36] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="composer", err="ENOENT: no such file or directory"
+[ERROR 30.05.2025 00:04:36] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="php", err="ENOENT: no such file or directory"
+[ERROR 30.05.2025 00:04:36] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="npm", err="ENOENT: no such file or directory"
+[ERROR 30.05.2025 00:04:36] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="node", err="ENOENT: no such file or directory"
+[ERROR 30.05.2025 00:04:36] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="javac", err="ENOENT: no such file or directory"
+[ERROR 30.05.2025 00:04:36] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="java", err="ENOENT: no such file or directory"
+[ERROR 30.05.2025 00:04:36] ...cal/nvim-data/lazy/mason.nvim/lua/mason-core/process.lua:225: Failed to spawn process. cmd="julia", err="ENOENT: no such file or directory"
